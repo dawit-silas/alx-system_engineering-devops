@@ -1,0 +1,3 @@
+#!/bin/bash
+#This is a shell script that shows an absolute path to the current directory
+pwd
