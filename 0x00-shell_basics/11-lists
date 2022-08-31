@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lanU . .. /boot
+ls -lan . .. /boot
